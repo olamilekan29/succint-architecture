@@ -25,7 +25,7 @@ const Process = () => {
   const stats = [
     { value: "47+", label: "Projects Delivered" },
     { value: "6+", label: "Years in Practice" },
-    { value: "3", label: "Nigerian Cities" },
+    { value: "6", label: "Nigerian Cities" },
     { value: "100%", label: "Design-Build Ready" },
   ];
 
