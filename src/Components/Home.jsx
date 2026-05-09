@@ -15,7 +15,7 @@ const Home = () => {
             <button className="text-white text-lg mt-10 bg-[#C4622D] px-14 h-16 rounded-full hover:bg-white hover:text-[#C4622D] cursor-pointer transition-all duration-300">View Our Projects </button>
         </div>
     <div className="w-full max-w-4xl mx-auto">
-        <img src={hero} alt="" className="w-full aspect-video object-cover"/>
+        <img src={hero} alt="" />
     </div>
             
   
