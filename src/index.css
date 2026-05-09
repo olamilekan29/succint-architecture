@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap');
+
+@theme {
+  --animate-marquee: scroll 30s linear infinite;
+  
+  @keyframes scroll {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+}
